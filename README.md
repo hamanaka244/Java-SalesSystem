@@ -19,6 +19,18 @@ Java学習課題として作成した販売管理システム。顧客・社員�
 - 受注情報の管理
 - 例外処理・バリデーション
 
+## 画面イメージ
+
+### ログイン画面
+![Login Screen](images/login.png)
+
+### 顧客登録フォーム
+![Form Screen](images/form.png)
+
+### 検索結果画面
+![Result Screen](images/result.png)
+
+
 ## 学習で得られたこと
 - DAO / DTO / Logic / Controller のレイヤ分割による設計
 - DBアクセス処理の実装（Connection, PreparedStatement）
