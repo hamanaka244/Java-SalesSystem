@@ -1,0 +1,18 @@
+# Eclipse / Java Generated Files
+# -----------------------------
+/bin/          # コンパイルされた.classファイル
+/build/        # ビルド一時ファイル
+*.class        # どこにあっても.classファイルは無視
+
+# Eclipse Settings
+# -----------------------------
+.settings/
+.classpath
+.project
+
+# IDE / OS Specific Files
+# -----------------------------
+.metadata
+.DS_Store      # Mac OSのファイル
+Thumbs.db      # Windowsのサムネイルキャッシュ
+
